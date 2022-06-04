@@ -1,2 +1,2 @@
-# React-HandsOn-ver.2
+# React-HandsOn
 Created with CodeSandbox
